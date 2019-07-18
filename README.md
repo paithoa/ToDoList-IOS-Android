@@ -1,7 +1,8 @@
-![Alt Text]
-(https://gfycat.com/bronzedefenselessibisbill)
+![Demo]
+(ezgift.com-gif-maker.gif)
 
-# Todo App 
+
+# Todo App Demo
 
 This is an example of a Complete Todo Application built using React Native.
 
