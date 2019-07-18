@@ -1,4 +1,5 @@
-![Demo](ezgift.com-gif-maker.gif)
+![Demo](https://gifyu.com/image/ECGs)
+
 
 
 # Todo App Demo
