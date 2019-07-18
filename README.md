@@ -1,4 +1,7 @@
-# Todo App Example
+![Alt Text]
+(https://gfycat.com/bronzedefenselessibisbill)
+
+# Todo App 
 
 This is an example of a Complete Todo Application built using React Native.
 
