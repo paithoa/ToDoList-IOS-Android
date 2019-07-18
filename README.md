@@ -1,5 +1,4 @@
-![Demo]
-(ezgift.com-gif-maker.gif)
+![Demo](ezgift.com-gif-maker.gif)
 
 
 # Todo App Demo
